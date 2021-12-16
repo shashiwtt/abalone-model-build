@@ -104,11 +104,7 @@ def get_pipeline(
     model_package_group_name="AbalonePackageGroup",
     pipeline_name="AbalonePipeline",
     base_job_prefix="Abalone",
-<<<<<<< HEAD
-    
-=======
     **kwargs,
->>>>>>> a4824fa60db58a1295bb61467945f307a56d1d60
 ):
     """Gets a SageMaker ML Pipeline instance working with on abalone data.
 
