@@ -1,4 +1,4 @@
-"""Example workflow pipeline script for abalone pipeline..
+"""Example workflow pipeline script for abalone pipeline...
 
                                                . -RegisterModel
                                               .
